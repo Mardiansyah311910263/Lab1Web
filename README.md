@@ -32,7 +32,8 @@ Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut.
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat 
     dengan menggunakan tag dasar html.</p>
 ```
-![LANGKAH 2](https://user-images.githubusercontent.com/81758407/113310185-2991c900-9332-11eb-8870-107e09abb47d.PNG)
+![LANGKAH 2](https://user-images.githubusercontent.com/81758407/113396903-6f986c80-93c6-11eb-8875-17bcd56d1678.PNG)
+
 
 </body>
 </html>
