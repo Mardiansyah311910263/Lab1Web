@@ -28,7 +28,7 @@ Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut.
     HTML.</p>
     
 <!-- Ini adalah paragraf kedua -->
-<p align=”right”>Ini merupakan sebuah paragraf yang terdiri dari beberapa 
+<p>Ini merupakan sebuah paragraf yang terdiri dari beberapa 
     kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat 
     dengan menggunakan tag dasar html.</p>
 ```
@@ -42,6 +42,26 @@ Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, d
     Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama 
     yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal 
     tag-tag dasar HTML.</p>
+ <!-- Ini adalah paragraf kedua -->
+<p align=”right”>Ini merupakan sebuah paragraf yang terdiri dari beberapa 
+    kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat 
+    dengan menggunakan tag dasar html.</p>
+```
+![LANGKAH 3](https://user-images.githubusercontent.com/81758407/113397831-de29fa00-93c7-11eb-98d7-ad4ccd3904bd.PNG)
+
+Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
+```
+<!-- judul paragraf pertama -->
+<h1>Belajar Dasar HTML</h1>
+<!-- judul paragraf kedua -->
+<h2>Paragraf pada HTML</h2>
+```
+![LANGKAH 3 I](https://user-images.githubusercontent.com/81758407/113398663-2ac20500-93c9-11eb-9264-f1707dbaef4a.PNG)
+
+
+## langkah 4
+
+
 
 </body>
 </html>
