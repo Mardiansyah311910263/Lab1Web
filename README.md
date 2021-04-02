@@ -95,9 +95,12 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
     </nav>
     <hr>  
 ```
+![LANGKAH 6](https://user-images.githubusercontent.com/81758407/113401740-13d1e180-93ce-11eb-8686-c428109e7a6f.PNG)
 
-
-
+##LANGKAH 7
+Membuat halaman ke 2 yg akan terhubung dengan halaman pertama menggunakan Hyperlink.
+```
+![LANGKAH 7](https://user-images.githubusercontent.com/81758407/113403066-454bac80-93d0-11eb-8e68-6e0ad4b9e8fb.PNG)
 
 
 </body>
