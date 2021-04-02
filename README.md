@@ -15,6 +15,9 @@ Buka VSCode dan buat file HTML baru. Setelah itu buat struktur dasar HTML.
     <title>Tag HTML Dasar</title>
 </head>
 <body>
+
+</body>
+</html>
 ```
 ![LANGKAH 1](https://user-images.githubusercontent.com/81758407/113309398-4f6a9e00-9331-11eb-92a9-91ac9ccabb92.PNG)
 
@@ -121,6 +124,28 @@ Membuat halaman ke 2 yg akan terhubung dengan halaman pertama menggunakan Hyperl
 ```
 ![LANGKAH 7](https://user-images.githubusercontent.com/81758407/113403066-454bac80-93d0-11eb-8e68-6e0ad4b9e8fb.PNG)
 
+##JAWAB PERTANYAAN
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah 
+error ketika terjadi kesalahan penulisan tag?
+```
+Ya ada, huruf besar dan kecil pun sangat berpengaruh.
+```
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
 
-</body>
-</html>
+```
+Pada hasil praktik yang saya lakukan, perbedaan  tag <p> jarak enter nya tidak terlalu jauh, sedangkan tag <br> jarak enter nya lebih jauh 1 line dari tag <p>.
+```
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+
+```
+Ketika gambar di tampilkan akan terlihat sebuah title. sedangkan, jika gambar gagal ditampilkan akan menampilkan teks atribut alt.
+```
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar 
+proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+```
+kedua atribut harus di isi semua, karena jika hanya salah satunya maka gambar tersebut akan terlihat terlalu lebar atau tinggi.
+```
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, 
+_parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
+```
+Menambah hyperlink baru dan menampilkan yg telah di tentukan, untuk blank akan menambah tab baru terlebih dahulu maka akan menampilkan link yang dituju.
