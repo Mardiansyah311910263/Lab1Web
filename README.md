@@ -34,11 +34,6 @@ Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut.
 ```
 ![LANGKAH 2](https://user-images.githubusercontent.com/81758407/113396903-6f986c80-93c6-11eb-8875-17bcd56d1678.PNG)
 
-
-</body>
-</html>
-
-
 ## Langkah 3
 Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, dan center) untuk melihat perbedaan lainnya.
 ```
@@ -47,6 +42,11 @@ Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, d
     Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama 
     yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal 
     tag-tag dasar HTML.</p>
+
+</body>
+</html>
+
+
 
 ```
 ![LANGKAH 3](https://user-images.githubusercontent.com/81758407/113311015-0d425c00-9333-11eb-870b-a2c565a041a7.PNG)
