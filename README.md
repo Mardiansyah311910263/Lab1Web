@@ -59,17 +59,46 @@ Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 
 ![LANGKAH 3 I](https://user-images.githubusercontent.com/81758407/113398663-2ac20500-93c9-11eb-9264-f1707dbaef4a.PNG)
 
 
-## langkah 4
+## LANGKAH 4
+Lakukan pemformatan teks yang ada pada paragraf yang sudah ada sebelumnya, mengacu kepada penjelasan materi pemformatan teks, sehingga tampilannya seperti berikut.
+```
+<p align="left">Kami sedang belajar <mark>HTML dasar</mark>, pada matakuliah <b>Pemrograman
+    Web</b> di Prodi <i>Teknik Informatika</i> <ins>Universitas Pelita Bangsa</ins>. Pelajaran pertama
+    yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal
+    tag-tag dasar HTML.</p>
+ ```
+ ![LANGKAH 4](https://user-images.githubusercontent.com/81758407/113399151-ed11ac00-93c9-11eb-8857-4a2d88b4da45.PNG)
+ 
+ ## LANGKAH 5
+ Untuk menyisipkan gambar, siapkan gambar yang akan disisipkan pada halaman web, kemudian simpan file gambar tersebut satu folder dengan file dokumen html.
+```
+```
+![LANGKAH 5](https://user-images.githubusercontent.com/81758407/113399895-28f94100-93cb-11eb-874e-b8f6bbea4e70.PNG)
+
+Kemudian tambahkan tag img setelah paragraf yang kedua, dengan menambahkan heading 3 sebelumnya.
+```
+<!-- sub judul paragraf -->
+<h3>Menambahkan Gambar</h3>
+<!-- menambahkan gambar pada dokumen -->
+<img src="logo_upb.png" width="200" title="Logo Univeritas Pelita Bangsa">
+```
+![LANGKAH 5 I](https://user-images.githubusercontent.com/81758407/113400426-fbf95e00-93cb-11eb-9bda-64e0294e0b02.PNG)
+
+## LANGKAH 6
+Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
+```
+<!-- menambahkan link navigasi -->
+<nav>
+    <a href="lab1_tag_dasar.html">Dasar HTML</a>
+    <a href="lab1_halaman2.html">Halaman 2</a>
+    <a href="http://www.google.com">Halaman Web Eksternal Google</a>
+    </nav>
+    <hr>  
+```
+
+
 
 
 
 </body>
 </html>
-
-
-
-```
-![LANGKAH 3](https://user-images.githubusercontent.com/81758407/113311015-0d425c00-9333-11eb-870b-a2c565a041a7.PNG)
-Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
-```
-
