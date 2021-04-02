@@ -26,6 +26,11 @@ Selanjutnya buatlah beberapa paragraf sederhana sebagai berikut.
     Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama yang kami dapat 
     adalah membuat tampilan web sederhana dalam rangka mengenal tag-tag dasar 
     HTML.</p>
+    
+<!-- Ini adalah paragraf kedua -->
+<p align=”right”>Ini merupakan sebuah paragraf yang terdiri dari beberapa 
+    kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat 
+    dengan menggunakan tag dasar html.</p>
 ```
 ![LANGKAH 2](https://user-images.githubusercontent.com/81758407/113310185-2991c900-9332-11eb-8870-107e09abb47d.PNG)
 
@@ -41,10 +46,7 @@ Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, d
     Web di Prodi Teknik Informatika Universitas Pelita Bangsa. Pelajaran pertama 
     yang kami dapat adalah membuat tampilan web sederhana dalam rangka mengenal 
     tag-tag dasar HTML.</p>
-<!-- Ini adalah paragraf kedua -->
-<p align=”right”>Ini merupakan sebuah paragraf yang terdiri dari beberapa 
-    kalimat yang saling mendukung sehingga menjadi satu kesatuan. Paragraf dibuat 
-    dengan menggunakan tag dasar html.</p>
+
 ```
 ![LANGKAH 3](https://user-images.githubusercontent.com/81758407/113311015-0d425c00-9333-11eb-870b-a2c565a041a7.PNG)
 Kemudian tambahkan judul h1 sebelum paragraf pertama dan tambahkan sub judul h2 sebelum paragraf kedua.
