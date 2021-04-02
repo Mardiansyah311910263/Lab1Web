@@ -100,6 +100,25 @@ Tambahkan hyperlink pada dokumen sebelum heading 1 seperti berikut.
 ##LANGKAH 7
 Membuat halaman ke 2 yg akan terhubung dengan halaman pertama menggunakan Hyperlink.
 ```
+!DOCTYPE html>
+<html>
+<head>
+    <title>Tag HTML Dasar</title>
+</head>
+<body>
+
+<h1>Halaman Ke 2</h1>
+
+<img src="MARDI.PNG" width="200" title="Logo Univeritas Pelita Bangsa">
+
+
+<p align="justify">MARDIANSYAH</p>
+<p align="justify">311910263</p>
+<p align="justify">TI.19.C.1</p>
+
+</body>
+</html>
+```
 ![LANGKAH 7](https://user-images.githubusercontent.com/81758407/113403066-454bac80-93d0-11eb-8e68-6e0ad4b9e8fb.PNG)
 
 
